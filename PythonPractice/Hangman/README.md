@@ -1,0 +1,1 @@
+#This is my hangman project and my third simple project pushing up to Github using Anglea Yu's course on Udemy. I will start with a simple list and randomizing this list and the word the user receives. Though I would like to (maybe not in this project) be able to pull in and/or import a larger list of words from a local or remote text file.
