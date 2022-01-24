@@ -1,0 +1,1 @@
+Used this program as a learning experience for datetime and stmplib modules. This also served as a great review for dictionaries and file manipulation using pandas in python. The complete functionality of automating random birthdays is not complete but I figured out the base logic and for the sake of time consumption I cut it short.
